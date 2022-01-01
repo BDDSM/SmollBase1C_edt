@@ -39,6 +39,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Продажи</subsystems>
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.ДокументПродажи</documents>
 </mdclass:Configuration>
